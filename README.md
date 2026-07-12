@@ -30,13 +30,12 @@ I’m a developer focused on learning by building real projects. 🎶
 
 ## Current Focus 🎯
 
-- Building REST APIs
-- Improving database design
+- Building an e-commerce
 
 ## Featured Projects 📂
 
-- 🎬 Cinema DB - relational database design using SQL
-- 🔗 REST API - built with PHP and MariaDB
+- ❤️ Kokoro - Chat with AI model integration using OpenRouter
+- 📃 Contact Form - CRUD application with JSON Server
 
 ## Tech Stack 💻
 
@@ -46,10 +45,13 @@ I’m a developer focused on learning by building real projects. 🎶
 ![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ### Backend
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 
 ### Databases
 
@@ -62,6 +64,7 @@ I’m a developer focused on learning by building real projects. 🎶
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ## Contact 💬
 
