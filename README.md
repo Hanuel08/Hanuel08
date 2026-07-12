@@ -73,7 +73,5 @@ I’m a developer focused on learning by building real projects. 🎶
 
 ## GitHub Stats 📊
 
-![](https://github-readme-stats.vercel.app/api?username=Hanuel08&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hanuel08&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Hanuel08&theme=dark&hide_border=false)
+[![GitHub Streak](https://streak-stats.demolab.com?user=)](https://git.io/streak-stats)
 
