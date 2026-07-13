@@ -73,5 +73,5 @@ I’m a developer focused on learning by building real projects. 🎶
 
 ## GitHub Stats 📊
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Hanuel08)](https://git.io/streak-stats)
 
